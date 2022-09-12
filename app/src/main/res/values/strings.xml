@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">progmobile.minha-senha</string>
+    <string name="banner"></string>
+    <string name="txtHintPhrase">Frase</string>
+    <string name="txtHintPlace">Local de uso</string>
+    <string name="txtHintAnswer"></string>
+    <string name="txtButton">Gerar senha</string>
+</resources>
